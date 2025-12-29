@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Revolver",
+  "base_artist": "HoneyComeBear",
+  "createdAt": "2025-12-29T04:19:47.968269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spinning Revolver",
+      "artist": "Nashville Cast feat. Will Chase",
+      "has_synced": false,
+      "path": "select/01_Spinning_Revolver_Nashville_Cast_feat._Will_Chase.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ella Usó Mi Cabeza Como Un Revólver - Remasterizado 2007",
+      "artist": "Soda Stereo",
+      "has_synced": true,
+      "path": "select/02_Ella_Usó_Mi_Cabeza_Como_Un_Revólver_-_Remasterizado_2007_Soda_Stereo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hot Revolver",
+      "artist": "Lil Wayne feat. Dre",
+      "has_synced": true,
+      "path": "select/03_Hot_Revolver_Lil_Wayne_feat._Dre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hot Revolver (Feat. Dre)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/04_Hot_Revolver_(Feat._Dre)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That's When I Reach for My Revolver",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/05_That's_When_I_Reach_for_My_Revolver_Moby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That's When I Reach for My Revolver",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/06_That's_When_I_Reach_for_My_Revolver_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Revolver -",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Revolver_-_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Revolver",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/08_Revolver_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Revolver",
+      "artist": "The Donnas",
+      "has_synced": true,
+      "path": "select/09_Revolver_The_Donnas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Revolver (Bonus Track)",
+      "artist": "Serj Tankian",
+      "has_synced": false,
+      "path": "select/10_Revolver_(Bonus_Track)_Serj_Tankian.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Revolver",
+      "artist": "Rage Against The Machine",
+      "has_synced": true,
+      "path": "select/11_Revolver_Rage_Against_The_Machine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Revolver",
+      "artist": "HoneyComeBear",
+      "has_synced": false,
+      "path": "select/pl_01_Revolver_HoneyComeBear.txt"
+    }
+  ]
+}
